@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//Комментарий для коммита
+//Комментарий для коммита 2
 public class ConsoleCalcOOP {
 
     //Объявляем тут, т.к. будут дампы при повторном создании и считывании с System.in
@@ -304,3 +304,5 @@ enum OperEnum {
     DIVIDE,
     EXIT
 }
+
+//Комментарий для коммита 2
