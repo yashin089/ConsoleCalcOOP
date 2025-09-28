@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//Комментарий для коммита
 public class ConsoleCalcOOP {
 
     //Объявляем тут, т.к. будут дампы при повторном создании и считывании с System.in
